@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /_astro/
 
-Sitemap: https://yeuoly.github.io/sitemap-index.xml
+Sitemap: https://blogs.yeuoly.org/sitemap-index.xml
